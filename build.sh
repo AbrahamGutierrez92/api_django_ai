@@ -3,6 +3,7 @@
 set -o errexit
 
 pip install render
+pip install --upgrade pip
 pip install -r requirements.txt
 
 
