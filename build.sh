@@ -2,6 +2,7 @@
 # exit on error
 set -o errexit
 
+pip install render
 pip install -r requirements.txt
 
 
